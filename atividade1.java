@@ -2,7 +2,7 @@ package atividade1;
 
 import java.util.Scanner;
 
-public class atividade1 {
+public class atividade2 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
@@ -24,3 +24,4 @@ public class atividade1 {
         entrada.close();
     }
 }
+
