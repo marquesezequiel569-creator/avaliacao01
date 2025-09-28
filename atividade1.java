@@ -2,7 +2,7 @@ package está e atividade1;
 
 import java.util.Scanner;
 
-public class atividade2 {
+public class e está e atividade2 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
